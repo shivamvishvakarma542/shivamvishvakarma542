@@ -62,9 +62,8 @@ Experienced in <b>onsite client handling</b> from requirements to delivery, with
 
 ## 📊 GitHub Stats
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=shivamvishvakarma542&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-(https://nirzak-streak-stats.vercel.app/?user=shivamvishvakarma542&theme=dark&hide_border=false)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvishvakarma542&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=shivamvishvakarma542&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvishvakarma542&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -81,9 +80,5 @@ Experienced in <b>onsite client handling</b> from requirements to delivery, with
 Dr. A. P. J. Abdul Kalam Technical University
 
 ---
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=shivamvishvakarma542&icon=0&color=0"/>
-</p>
 
 ⭐ <i>Clean Code • Scalable APIs • Continuous Learning</i>

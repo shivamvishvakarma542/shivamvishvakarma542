@@ -1,72 +1,78 @@
-# 👋 Hi, I'm a .NET Developer
+<h1 align="center">Hi 👋, I'm Shivam Vishvakarma</h1>
+<h3 align="center">.NET Developer | API Specialist | SQL Enthusiast</h3>
 
-🚀 Skilled **.NET Developer** with **0.6+ years of experience** in building enterprise-level web applications using **C#, ASP.NET, Web API, and SQL Server**.  
-💼 Experienced in **onsite client handling**, from requirement gathering to final delivery.  
-⚡ Strong in **API development, performance tuning**, and scalable solution design.
+<p align="center">
+Skilled <b>.NET Developer</b> with <b>0.6+ years of experience</b> in building scalable enterprise web applications using 
+<b>C#, ASP.NET, Web API, and SQL Server</b>.  
+Experienced in <b>onsite client handling</b> — from requirement analysis to delivery.  
+Strong in <b>API development, performance tuning</b>, and writing clean, maintainable code.
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Backend-focused .NET Developer  
+- 🔧 Strong ownership & problem-solving mindset  
+- 🤝 Clear communicator with real client exposure  
+- ⚡ Delivers reliable & scalable solutions  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- C#
-- C
-- SQL
-- JavaScript
+`C#` `C` `SQL` `JavaScript`
 
 ### 🧩 Frameworks & Libraries
-- ASP.NET MVC
-- ASP.NET Core
-- Web API
-- ADO.NET
-- Entity Framework
-- Dapper
-- LINQ
+`ASP.NET MVC` `ASP.NET Core` `Web API`  
+`ADO.NET` `Entity Framework` `Dapper` `LINQ`
 
 ### 🌐 Web Technologies
-- HTML5
-- CSS3
-- Bootstrap
-- jQuery
-- AJAX
+`HTML5` `CSS3` `Bootstrap` `jQuery` `AJAX`
 
 ### 🗄 Databases
-- SQL Server
-- MySQL (Basic)
+`SQL Server` `MySQL (Basic)`
 
 ### 🧰 Tools & Platforms
-- Visual Studio
-- SSMS
-- Postman
-- Git
-- Swagger
-- JIRA (Basics)
-- Canvas
+`Visual Studio` `SSMS` `Postman` `Git`  
+`Swagger` `JIRA (Basics)` `Canva`
 
 ---
 
-## 📌 What I Do
-- 🔹 REST API Development
-- 🔹 Database Design & Optimization
-- 🔹 Stored Procedures & ADO.NET
-- 🔹 MVC & Web API Integration
-- 🔹 Client Requirement Analysis
-- 🔹 Bug Fixing & Performance Improvement
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/shivam-vishvakarma-861395215" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://facebook.com/shivam.prince.338" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ishivamsharma_7" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/Shivamvish_0_7" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:Vishvakarmashivam839@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivamvishvakarma542&theme=tokyonight&show_icons=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=shivamvishvakarma542&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvishvakarma542&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🧠 Currently Learning
-- Advanced ASP.NET Core
-- Clean Architecture
-- API Security (JWT, Token-based Auth)
+## ✍️ Developer Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
@@ -76,8 +82,8 @@ Dr. A. P. J. Abdul Kalam Technical University
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=shivamvishvakarma542&icon=0&color=0"/>
+</p>
 
-⭐ _“Clean Code | Scalable APIs | Reliable Solutions”_
+⭐ *Clean Code | Scalable APIs | Continuous Learning*

@@ -2,7 +2,7 @@
 <h3 align="center">.NET Developer | Backend & API Specialist</h3>
 
 <p align="center">
-Skilled <b>.NET Developer</b> with <b>0.6+ years</b> of hands-on experience in building 
+Skilled <b>.NET Developer</b> with <b>1 years</b> of hands-on experience in building 
 enterprise-grade web applications using <b>C#, ASP.NET, Web API & SQL Server</b>.  
 Experienced in <b>onsite client handling</b> from requirements to delivery, with a strong focus on 
 <b>performance, scalability & clean architecture</b>.
